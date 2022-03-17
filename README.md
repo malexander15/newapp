@@ -1,9 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This is a list of all the things I want to cover in this app to build my knowledge of web app development.
 
 * Ruby version
 
